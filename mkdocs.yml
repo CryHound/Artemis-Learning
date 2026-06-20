@@ -1,7 +1,7 @@
 site_name: Quantum Notes
 site_description: Personal notes on learning quantum computing
-repo_url: https://github.com/yourusername/quantum-notes
-repo_name: yourusername/quantum-notes
+# repo_url: https://github.com/yourusername/quantum-notes
+# repo_name: yourusername/quantum-notes
 
 theme:
   name: material
